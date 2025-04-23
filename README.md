@@ -1,4 +1,4 @@
-# 📝 NLP-Remarks-Classification
+# 📝 NLP Remarks Model
 
 This project focuses on classifying visit locations using Natural Language Processing (NLP). The goal is to automatically categorize visit remarks written by BFI Finance agents into predefined location types, such as:
 - Customer's House
